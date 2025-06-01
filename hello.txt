@@ -1,2 +1,3 @@
 Hello from Amazon Linux 
-Today is sunday
+Today is sunday 
+Have a happy weekend
