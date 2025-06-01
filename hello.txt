@@ -5,5 +5,10 @@ Have a happy weekend
 =======
 Today is sunday
 Hi How are you 
+<<<<<<< HEAD
 
+>>>>>>> dev
+=======
+Monday 
+Tuesday
 >>>>>>> dev
