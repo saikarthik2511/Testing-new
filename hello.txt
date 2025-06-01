@@ -1,1 +1,2 @@
-Hello from Amazon Linux
+Hello from Amazon Linux 
+Today is sunday
