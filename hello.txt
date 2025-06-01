@@ -1,3 +1,9 @@
 Hello from Amazon Linux 
+<<<<<<< HEAD
 Today is sunday 
 Have a happy weekend
+=======
+Today is sunday
+Hi How are you 
+
+>>>>>>> dev
